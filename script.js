@@ -50,3 +50,4 @@ function onDocumentMouseDown(event) {
 }
 
 window.onload = init;
+
